@@ -1,3 +1,0 @@
-
-class PauseMenuRenderer:
-    pass

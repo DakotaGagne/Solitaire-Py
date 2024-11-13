@@ -1,4 +1,0 @@
-        
-
-class SettingsMenuRenderer:
-    pass
